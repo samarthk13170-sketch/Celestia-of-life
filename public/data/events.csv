@@ -1,0 +1,46 @@
+type,label,timestamp,value
+events,"Farmers market",2025-06-02T18:24:00,2
+events,"Open-air cinema",2025-06-03T23:09:00,2
+events,"Farmers market",2025-06-05T22:15:00,1
+events,"Marathon",2025-06-06T23:30:00,3
+events,"Marathon",2025-06-08T19:32:00,3
+events,"Meteor shower watch",2025-06-09T20:56:00,3
+events,"Camping trip",2025-06-10T21:06:00,2
+events,"Jazz night",2025-06-11T18:39:00,2
+events,"Gallery opening",2025-06-11T19:47:00,1
+events,"Meteor shower watch",2025-06-13T19:50:00,3
+events,"Open-air cinema",2025-06-16T23:43:00,3
+events,"Meteor shower watch",2025-06-17T20:54:00,1
+events,"Meteor shower watch",2025-06-20T20:15:00,2
+events,"Gallery opening",2025-06-21T23:39:00,3
+events,"Birthday dinner",2025-06-23T22:01:00,3
+events,"Jazz night",2025-06-27T19:29:00,3
+events,"Open-air cinema",2025-07-01T23:57:00,2
+events,"Gallery opening",2025-07-04T20:34:00,3
+events,"Camping trip",2025-07-04T21:51:00,1
+events,"Beach bonfire",2025-07-05T19:28:00,3
+events,"Beach bonfire",2025-07-06T18:30:00,3
+events,"Farmers market",2025-07-06T20:13:00,3
+events,"Birthday dinner",2025-07-09T20:32:00,2
+events,"Open-air cinema",2025-07-15T21:13:00,3
+events,"Farmers market",2025-07-17T18:59:00,3
+events,"Birthday dinner",2025-07-17T20:34:00,2
+events,"Birthday dinner",2025-07-20T20:43:00,2
+events,"Open-air cinema",2025-07-21T19:27:00,1
+events,"Open-air cinema",2025-07-22T18:58:00,3
+events,"Open-air cinema",2025-07-22T19:10:00,1
+events,"Birthday dinner",2025-07-23T21:26:00,1
+events,"Farmers market",2025-07-25T20:59:00,2
+events,"Gallery opening",2025-07-27T21:59:00,1
+events,"Farmers market",2025-08-01T18:40:00,2
+events,"New Year countdown",2025-08-04T19:45:00,3
+events,"New Year countdown",2025-08-04T22:00:00,1
+events,"Jazz night",2025-08-06T23:24:00,1
+events,"Beach bonfire",2025-08-08T21:29:00,2
+events,"Gallery opening",2025-08-10T20:27:00,3
+events,"Beach bonfire",2025-08-12T22:06:00,1
+events,"Farmers market",2025-08-17T21:26:00,2
+events,"Meteor shower watch",2025-08-17T23:05:00,3
+events,"Marathon",2025-08-18T19:32:00,2
+events,"New Year countdown",2025-08-20T18:57:00,3
+events,"Marathon",2025-08-20T22:59:00,1

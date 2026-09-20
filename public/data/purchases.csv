@@ -1,0 +1,45 @@
+type,label,timestamp,value
+purchases,"Espresso beans",2025-01-03T12:01:00,85
+purchases,"Houseplant",2025-01-17T16:16:00,103
+purchases,"Houseplant",2025-02-02T17:38:00,85
+purchases,"Vinyl record",2025-02-08T11:56:00,27
+purchases,"Film camera",2025-02-20T14:24:00,93
+purchases,"Notebook",2025-03-16T16:24:00,94
+purchases,"Film camera",2025-03-16T19:50:00,77
+purchases,"Espresso beans",2025-03-17T13:12:00,95
+purchases,"Ceramic mug",2025-03-19T13:01:00,75
+purchases,"Notebook",2025-03-23T13:17:00,31
+purchases,"Vinyl record",2025-04-02T19:17:00,91
+purchases,"Ceramic mug",2025-04-11T16:03:00,204
+purchases,"Film camera",2025-04-12T14:31:00,122
+purchases,"Ceramic mug",2025-04-13T17:24:00,167
+purchases,"Ceramic mug",2025-04-14T14:35:00,108
+purchases,"Running shoes",2025-04-16T14:46:00,159
+purchases,"Ceramic mug",2025-04-18T12:33:00,64
+purchases,"Vinyl record",2025-04-19T12:36:00,124
+purchases,"Wool blanket",2025-04-21T19:16:00,122
+purchases,"Espresso beans",2025-05-26T17:42:00,32
+purchases,"Hiking boots",2025-06-07T17:41:00,50
+purchases,"Vinyl record",2025-07-08T17:07:00,6
+purchases,"Film camera",2025-07-18T11:09:00,77
+purchases,"Running shoes",2025-08-18T12:30:00,10
+purchases,"Ceramic mug",2025-08-22T14:32:00,124
+purchases,"Hiking boots",2025-09-02T20:34:00,124
+purchases,"Film camera",2025-09-09T08:08:00,102
+purchases,"Ceramic mug",2025-09-12T14:10:00,35
+purchases,"Desk lamp",2025-09-15T15:41:00,22
+purchases,"Ceramic mug",2025-09-17T17:20:00,157
+purchases,"Film camera",2025-09-18T08:51:00,8
+purchases,"Houseplant",2025-10-06T07:51:00,6
+purchases,"Ceramic mug",2025-10-09T11:25:00,55
+purchases,"Houseplant",2025-10-21T07:14:00,122
+purchases,"Ceramic mug",2025-10-24T20:40:00,38
+purchases,"Espresso beans",2025-11-10T08:41:00,62
+purchases,"Vinyl record",2025-11-21T08:05:00,41
+purchases,"Running shoes",2025-11-23T08:15:00,62
+purchases,"Vinyl record",2025-12-17T10:47:00,108
+purchases,"Espresso beans",2025-12-19T09:17:00,95
+purchases,"Wool blanket",2025-12-20T16:32:00,9
+purchases,"Wool blanket",2025-12-21T11:08:00,116
+purchases,"Film camera",2025-12-21T20:39:00,120
+purchases,"Desk lamp",2025-12-24T17:54:00,18
